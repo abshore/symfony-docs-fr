@@ -11,8 +11,7 @@ Templates
 ---------
 
 Pour des informations sur la surcharge de templates, lisez
-* :ref:`overriding-bundle-templates`.
-* :doc:`/cookbook/bundles/inheritance`
+* :ref:`overriding-bnce`
 
 Routage
 -------
